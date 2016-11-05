@@ -1,0 +1,7 @@
+{
+  "extends": ["formidable/configurations/es6"],
+  "rules": {
+    "quotes": [2, "single"],
+    "comma-dangle": [2, "always"]
+  }
+}

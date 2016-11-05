@@ -1,0 +1,32 @@
+{
+  "name": "react-native-build-config",
+  "version": "0.0.1",
+  "description": "Build configuration for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ds300/react-native-build-config.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "build",
+    "config"
+  ],
+  "author": "ds300",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ds300/react-native-build-config/issues"
+  },
+  "homepage": "https://github.com/ds300/react-native-build-config#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.1.0",
+    "eslint": "^2.10.2",
+    "eslint-config-formidable": "^2.0.1",
+    "eslint-plugin-filenames": "^1.1.0",
+    "eslint-plugin-import": "^2.1.0"
+  }
+}
