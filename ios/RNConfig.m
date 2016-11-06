@@ -1,15 +1,7 @@
-//
-//  ReactNativeBuildConfig.m
-//  ReactNativeBuildConfig
-//
-//  Created by David Sheldrick on 05/11/16.
-//  Copyright © 2016 David Sheldrick. All rights reserved.
-//
 
-#import "ReactNativeBuildConfig.h"
+#import "RNConfig.h"
 
-
-@implementation ReactNativeBuildConfig
+@implementation RNConfig
 
 RCT_EXPORT_MODULE()
 
