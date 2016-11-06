@@ -1,3 +1,6 @@
-import {NativeModules} from 'react-native';
 
-export default NativeModules.ReactNativeBuildConfig;
+import { NativeModules } from 'react-native';
+
+const { RNConfig } = NativeModules;
+
+export default RNConfig;
